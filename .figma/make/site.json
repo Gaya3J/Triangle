@@ -1,0 +1,10 @@
+{
+  "description": "Turn uploaded documents into searchable knowledge, then ask questions and get AI answers with clear citations for faster, evidence-backed research.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
